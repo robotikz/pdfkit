@@ -1,5 +1,5 @@
 {
-  "name": "pdfkit",
+  "name": "@robotikzz/pdfkit",
   "description": "A PDF generation library for Node.js",
   "keywords": [
     "pdf",
@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "crypto-js": "^4.0.0",
-    "fontkit": "^1.8.1",
+    "@robotikzz/fontkit": "^1.8.2",
     "linebreak": "^1.0.2",
     "png-js": "^1.0.0"
   },
