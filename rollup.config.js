@@ -6,7 +6,7 @@ const external = [
   'stream',
   'fs',
   'zlib',
-  'fontkit',
+  '@robotikzz/fontkit',
   'events',
   'linebreak',
   'png-js',
